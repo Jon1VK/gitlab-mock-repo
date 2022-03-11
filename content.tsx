@@ -1,2 +1,2 @@
 console.log("pedsn")
-console.log("wyklu")
+console.log("mksam")
