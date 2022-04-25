@@ -1,2 +1,2 @@
 console.log("hqxbu")
-console.log("wrsyp")
+console.log("aluji")
