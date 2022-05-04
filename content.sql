@@ -1,1 +1,1 @@
-SELECT * from wmhdw;
+SELECT * from prmcx;
