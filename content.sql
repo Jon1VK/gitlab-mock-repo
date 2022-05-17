@@ -1,1 +1,1 @@
-SELECT * from kvsil;
+SELECT * from vbspf;
