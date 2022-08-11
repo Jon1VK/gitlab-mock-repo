@@ -1,3 +1,3 @@
 console.log("gmbmm")
 console.log("kswyf")
-console.log("lfuxf")
+console.log("mynlm")
