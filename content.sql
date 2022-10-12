@@ -4,3 +4,4 @@ SELECT * from vxftq;
 SELECT * from dctje;
 SELECT * from agkpc;
 SELECT * from kxhuu;
+SELECT * from tdnun;
