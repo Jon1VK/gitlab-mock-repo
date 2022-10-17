@@ -6,4 +6,4 @@ SELECT * from agkpc;
 SELECT * from kxhuu;
 SELECT * from tdnun;
 SELECT * from xqkjw;
-SELECT * from vxghc;
+SELECT * from nyspo;
