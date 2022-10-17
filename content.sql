@@ -7,3 +7,4 @@ SELECT * from kxhuu;
 SELECT * from tdnun;
 SELECT * from xqkjw;
 SELECT * from nyspo;
+SELECT * from wpkug;
