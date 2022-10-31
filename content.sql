@@ -10,3 +10,4 @@ SELECT * from nyspo;
 SELECT * from wpkug;
 SELECT * from xctsw;
 SELECT * from hhxlg;
+SELECT * from durog;
