@@ -15,3 +15,4 @@ SELECT * from kqywp;
 SELECT * from xmnhu;
 SELECT * from qaaci;
 SELECT * from omfms;
+SELECT * from brbkl;
