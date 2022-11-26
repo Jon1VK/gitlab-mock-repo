@@ -16,3 +16,4 @@ SELECT * from xmnhu;
 SELECT * from qaaci;
 SELECT * from omfms;
 SELECT * from brbkl;
+SELECT * from jeaql;
