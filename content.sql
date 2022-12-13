@@ -18,3 +18,4 @@ SELECT * from omfms;
 SELECT * from brbkl;
 SELECT * from jeaql;
 SELECT * from yxkdl;
+SELECT * from giefq;
