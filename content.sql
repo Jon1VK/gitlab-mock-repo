@@ -20,3 +20,4 @@ SELECT * from jeaql;
 SELECT * from yxkdl;
 SELECT * from giefq;
 SELECT * from vdfxr;
+SELECT * from arucj;
