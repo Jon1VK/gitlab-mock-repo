@@ -24,3 +24,4 @@ SELECT * from kfxow;
 SELECT * from vtkqh;
 SELECT * from tsbkx;
 SELECT * from xcaby;
+SELECT * from ruipt;
