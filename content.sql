@@ -25,3 +25,4 @@ SELECT * from vtkqh;
 SELECT * from tsbkx;
 SELECT * from xcaby;
 SELECT * from hhnip;
+SELECT * from qruqx;
