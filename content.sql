@@ -27,3 +27,4 @@ SELECT * from xcaby;
 SELECT * from hhnip;
 SELECT * from qruqx;
 SELECT * from ucuth;
+SELECT * from edkis;
