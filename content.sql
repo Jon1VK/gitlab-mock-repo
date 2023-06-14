@@ -28,3 +28,4 @@ SELECT * from hhnip;
 SELECT * from qruqx;
 SELECT * from ucuth;
 SELECT * from quehh;
+SELECT * from vsvrm;
