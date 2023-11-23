@@ -30,3 +30,4 @@ SELECT * from ucuth;
 SELECT * from quehh;
 SELECT * from vsvrm;
 SELECT * from hukef;
+SELECT * from lkbyi;
