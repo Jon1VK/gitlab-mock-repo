@@ -33,3 +33,4 @@ SELECT * from hukef;
 SELECT * from lkbyi;
 SELECT * from jikik;
 SELECT * from mcjlx;
+SELECT * from ftpeq;
